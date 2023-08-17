@@ -1,0 +1,1 @@
+A simple bank and USSD transaction implemented using the if else statement
